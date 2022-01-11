@@ -1,2 +1,2 @@
 # miniCurso
-Mini Curso Catalia
+Mini Curso Catalisa
